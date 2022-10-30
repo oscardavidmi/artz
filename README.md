@@ -1,4 +1,4 @@
 # artz
 
 Link to live site: https://oscardavidmi.github.io/artz/
-Whatever I write will appear in publi
+Whatever I write will appear in public
